@@ -19,11 +19,9 @@
 # ----------------------------------------------------------------------------
 # Convert CSV Results to a Markdown Table
 # ----------------------------------------------------------------------------
-
 import csv
 import os
 import sys
-
 ### Params:
 ### 1 - input file (.csv)
 ### 2 - output file (.md)
